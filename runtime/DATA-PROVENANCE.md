@@ -2,7 +2,9 @@
 
 Prepared by the course author from retained source files, preparation code and receipts; delivered to the hosted workspace after the dogfood source audit identified missing preparation documentation. This is supplied provenance, not evidence independently rediscovered by a language model.
 
-## Fossils
+## Fossils — retained chronology method
+
+This section documents a legacy calculation retained in the source code. The active fossil exercise instead uses the ForametCeTera CT specimens and Treatise diagnoses embedded in the HTML handout; these chronology inputs are not needed or included in the public-link computational package.
 
 The original M0027A occurrence table is PANGAEA doi:10.1594/PANGAEA.779542, with its metadata preserved. A nonblank species code is treated as a recorded occurrence; a blank is not established biological absence. The method selects the deepest recorded P. sicana and shallowest recorded C. dissimilis within its stated source selection. These are occurrence constraints, not directly dated local event horizons.
 
@@ -48,8 +50,8 @@ https://earthquake.usgs.gov/product/shakemap/us20002926/atlas/1594162031303/down
 
 prepare.py: SHA-256 2f3b3a95990d9d8934371738aa7fc30d891cea79af5d46790c3030e2504b8287
 
-workshop.py: SHA-256 e036a37fe513805a8e09631bde0913be7f53f2563c65c14dccb7cb7e22b9b5de
+workshop.py: SHA-256 2e65c0d1d0133dae2eb35fa4c926dc4f34b485d17bcfc3bc22574e8378ff854a
 
-classroom.py: SHA-256 d0aa610b6776b3d97507afcccc92f970914dc1e8b6e1a9de80fd75432cfb4417
+classroom.py: SHA-256 18e8fc888673e2eca502172ee68dabb20385179452cda43f39f49c7754079251
 
 Input identities are in participant-inputs.json. The preparation script and original archive/receipt remain instructor evidence; only the frozen analysis inputs are needed for the workshop.
