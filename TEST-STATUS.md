@@ -1,14 +1,24 @@
-# Setup rehearsal status
+# Public-link setup rehearsal
 
-## Verified
+The GitHub-to-Research workflow completed in Safari on the international Zero2x Research service, using a new project in an existing account.
 
-- A new, initially empty project on the international Zero2x Research service downloaded an existing public SEG source file directly from raw.githubusercontent.com.
-- The actual Bash result returned HTTP 200, 311 bytes and SHA-256 `564dadc09369a92c709ec0096db2656b92a752d8c3343c77f759be1bcae3bf5e`, matching the retained source exactly.
-- The hosted environment ran Python 3.12.3 and imported numpy, pandas, matplotlib, scipy and scikit-learn. No dependency installation was needed.
-- Locally, a freshly extracted workshop ZIP passed all twelve file checks. One seismic run, one spatial run, memo saving and read-back completed using the unchanged audited methods.
+## Verified by actual execution and downloaded artifacts
 
-## Still to verify
+- Research retrieved the public `workshop-runtime.zip`: HTTP 200, 2,438,141 bytes, SHA-256 `01ef78539d632bb2c6e2e5516613523bbe934563722d6215698a81a7163d0b4b`.
+- Safe extraction produced thirteen files. All twelve manifest entries passed verification before and after execution. No packages or replacement scientific methods were installed.
+- Hosted Python 3.12.3 imported numpy 2.4.6, pandas 3.0.5, matplotlib 3.11.1, scipy 1.18.0 and scikit-learn 1.9.0.
+- The seismic run used 55 Hz, 30-degree phase and a 12 m target bed. The spatial run used the north holdout, 3 km buffer and no image-quality filter.
+- Both runs completed through the unchanged `classroom.run` interface, produced their figures and tables, and saved research memos that Research read back.
+- The project was exported through the Research browser interface. The downloaded export retained all twelve source hashes. Six output CSVs—including 6,920 held-out predictions—agreed with the separate local reference within numerical precision (largest absolute difference approximately 1.4e-14). Elapsed times were excluded from numerical equality checks.
+- Recorded calculation times were 0.72 seconds for seismic and 2.55 seconds for spatial. These are calculation times, not full conversation or lesson times. The package-setup response displayed 1 minute 14 seconds.
+- Both downloaded PNGs were inspected: the seismic spectrum/wedge/bias plot and the geographic holdout/prediction/performance plot contain the expected results.
 
-The complete workshop ZIP has not yet been downloaded or executed by the international service. The individual public-file preflight is not a substitute for that test. The rehearsal used an existing account with a new project; ordinary newly registered student permissions and class-scale capacity are not established.
+## Interpretation remains part of the exercise
 
-No scientific success or participant pacing claim follows from these setup checks.
+Successful execution does not validate every sentence of a model-written memo. The rehearsal caught unsupported statements about a measured seismic noise floor, attributing a difference to phase without a control, treating Brier score as calibration alone, and ranking undocumented image-quality codes. These require evidence review; they are not supplied answers for students to copy.
+
+## Scope and remaining checks
+
+This test establishes public-file retrieval, unchanged hosted execution, artifact generation, memo saving and export. It does not establish permissions for a newly registered student account, class-scale capacity or participant pacing. The fossil exercise uses the embedded CT viewer and GeoGPT Chat; it does not use the quantitative runtime package and was not re-run through Chat during this setup test.
+
+The landing page and copy control loaded publicly. The first full-handout download was interrupted by a local connection reset; the page now explains its loading state. Complete the handout download before class and retain a saved copy.
