@@ -1,0 +1,32 @@
+[
+  {
+    "path": "data/prepared/gorkha-grid.csv",
+    "bytes": 3064210,
+    "sha256": "930103137b4b6bd3caae3c3cf9bd2ff1832143953f0be472bc4a65df72c490cd"
+  },
+  {
+    "path": "data/raw/f3/data/All_wells_RawData/Lasfiles/F02-1_logs.las",
+    "bytes": 1240650,
+    "sha256": "279bcfcd007248119a664cc1402985c6181dde52aa4067aaf1efb9b1673ceddb"
+  },
+  {
+    "path": "data/raw/f3/data/All_wells_RawData/Tops/F02-1_markers.txt",
+    "bytes": 356,
+    "sha256": "49aa37a1c72dca40eb5ed923b07fe552a673cc3649e8b461eb6366eb502ca564"
+  },
+  {
+    "path": "data/raw/f3/data/All_wells_RawData/Checkshot/F02-1_TD.txt",
+    "bytes": 311,
+    "sha256": "564dadc09369a92c709ec0096db2656b92a752d8c3343c77f759be1bcae3bf5e"
+  },
+  {
+    "path": "data/raw/f3/data/All_wells_RawData/DT_model/F02-1_TD.txt",
+    "bytes": 200880,
+    "sha256": "7d2f570a0f162123eec92ddb316597071078dd79bc7eb94a51928c195d94bb68"
+  },
+  {
+    "path": "data/raw/f3/data/export_inline362.ascii",
+    "bytes": 2173030,
+    "sha256": "a4a03b1e452c93d8dfcf8cde151b89b28bf6df4fc1382500ceffdc440027caa5"
+  }
+]

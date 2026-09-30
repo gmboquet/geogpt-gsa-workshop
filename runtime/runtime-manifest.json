@@ -1,0 +1,69 @@
+{
+  "active_cases": [
+    "resolution",
+    "spatial"
+  ],
+  "purpose": "Public sources and unchanged audited methods; no saved answers or account credentials.",
+  "files": [
+    {
+      "path": "DATA-PROVENANCE.md",
+      "bytes": 5543,
+      "sha256": "3a2aacd5aceed5de9c713a35b55d8b3236e0ffbd63dafe701e892ab3a11b339c"
+    },
+    {
+      "path": "classroom.py",
+      "bytes": 6074,
+      "sha256": "18e8fc888673e2eca502172ee68dabb20385179452cda43f39f49c7754079251"
+    },
+    {
+      "path": "data/prepared/gorkha-grid.csv",
+      "bytes": 3064210,
+      "sha256": "930103137b4b6bd3caae3c3cf9bd2ff1832143953f0be472bc4a65df72c490cd"
+    },
+    {
+      "path": "data/raw/f3/data/All_wells_RawData/Checkshot/F02-1_TD.txt",
+      "bytes": 311,
+      "sha256": "564dadc09369a92c709ec0096db2656b92a752d8c3343c77f759be1bcae3bf5e"
+    },
+    {
+      "path": "data/raw/f3/data/All_wells_RawData/DT_model/F02-1_TD.txt",
+      "bytes": 200880,
+      "sha256": "7d2f570a0f162123eec92ddb316597071078dd79bc7eb94a51928c195d94bb68"
+    },
+    {
+      "path": "data/raw/f3/data/All_wells_RawData/Lasfiles/F02-1_logs.las",
+      "bytes": 1240650,
+      "sha256": "279bcfcd007248119a664cc1402985c6181dde52aa4067aaf1efb9b1673ceddb"
+    },
+    {
+      "path": "data/raw/f3/data/All_wells_RawData/Tops/F02-1_markers.txt",
+      "bytes": 356,
+      "sha256": "49aa37a1c72dca40eb5ed923b07fe552a673cc3649e8b461eb6366eb502ca564"
+    },
+    {
+      "path": "data/raw/f3/data/export_inline362.ascii",
+      "bytes": 2173030,
+      "sha256": "a4a03b1e452c93d8dfcf8cde151b89b28bf6df4fc1382500ceffdc440027caa5"
+    },
+    {
+      "path": "participant-inputs.json",
+      "bytes": 1058,
+      "sha256": "af28af8931400978efe19c8e5a80ba2340cf4d2a124db7ee2458afc060e87ab2"
+    },
+    {
+      "path": "requirements-hosted.txt",
+      "bytes": 226,
+      "sha256": "7ec846e54d4b6bc3dedd82f6295aca043473ca31cb76ee0682917c808940bd4b"
+    },
+    {
+      "path": "verify_setup.py",
+      "bytes": 1142,
+      "sha256": "1a06bb4fb219a5b4e9e0a2fa6745b1e7a407fec4f247330a3e75e208a6762f2c"
+    },
+    {
+      "path": "workshop.py",
+      "bytes": 18019,
+      "sha256": "2e65c0d1d0133dae2eb35fa4c926dc4f34b485d17bcfc3bc22574e8378ff854a"
+    }
+  ]
+}
