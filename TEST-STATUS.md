@@ -21,4 +21,4 @@ Successful execution does not validate every sentence of a model-written memo. T
 
 This test establishes public-file retrieval, unchanged hosted execution, artifact generation, memo saving and export. It does not establish permissions for a newly registered student account, class-scale capacity or participant pacing. The fossil exercise uses the embedded CT viewer and GeoGPT Chat; it does not use the quantitative runtime package and was not re-run through Chat during this setup test.
 
-The landing page and copy control loaded publicly. The first full-handout download was interrupted by a local connection reset; the page now explains its loading state. Complete the handout download before class and retain a saved copy.
+The landing page, exact setup-copy control and all three lesson-navigation paths were checked on GitHub Pages. The first full-handout download was interrupted by a local connection reset; a retry completed and all three lessons opened with their timelines and checkpoints. The page now explains its loading state. Complete the handout download before class and retain a saved copy.
