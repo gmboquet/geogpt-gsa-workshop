@@ -1,26 +1,23 @@
-# Public-link setup rehearsal
+# Rehearsal and release evidence
 
-The GitHub-to-Research workflow completed in Safari on the international Zero2x Research service, using a new project in an existing account.
+## What changed
 
-## Verified by actual execution and downloaded artifacts
+The revised beginner route supplies technical defaults in each copyable prompt. It removes validation-purpose, error-tolerance, hypothesis-design and software-choice gates. Treatise criteria appear in the handout and prompts; students do not construct a morphology key. Seismic uses a fully specified hypothetical wedge. Landslide uses three supplied files and one fixed calculation. Papers are optional background.
 
-- Research retrieved the public `workshop-runtime.zip`: HTTP 200, 2,438,141 bytes, SHA-256 `01ef78539d632bb2c6e2e5516613523bbe934563722d6215698a81a7163d0b4b`.
-- Safe extraction produced thirteen files. All twelve manifest entries passed verification before and after execution. No packages or replacement scientific methods were installed.
-- Hosted Python 3.12.3 imported numpy 2.4.6, pandas 3.0.5, matplotlib 3.11.1, scipy 1.18.0 and scikit-learn 1.9.0.
-- The seismic run used 55 Hz, 30-degree phase and a 12 m target bed. The spatial run used the north holdout, 3 km buffer and no image-quality filter.
-- Both runs completed through the unchanged `classroom.run` interface, produced their figures and tables, and saved research memos that Research read back.
-- The project was exported through the Research browser interface. The downloaded export retained all twelve source hashes. Six output CSVs—including 6,920 held-out predictions—agreed with the separate local reference within numerical precision (largest absolute difference approximately 1.4e-14). Elapsed times were excluded from numerical equality checks.
-- Recorded calculation times were 0.72 seconds for seismic and 2.55 seconds for spatial. These are calculation times, not full conversation or lesson times. The package-setup response displayed 1 minute 14 seconds.
-- Both PNGs were opened inside Research’s file viewer, and the downloaded copies were inspected: the seismic spectrum/wedge/bias plot and the geographic holdout/prediction/performance plot contain the expected results.
+## Live international Safari runs
 
-## Interpretation remains part of the exercise
+Fossils: a new empty GeoGPT Chat received the projection, then six actual CT sections, then the source-label comparison. Projection and section responses displayed 46 and 125 seconds. Neither asked a technical clarification. Both retained unresolved identification. The final comparison prompt was revised and replayed after the first version referred to unseen illustrations. A remaining unsupported anatomical term (“umbilicus”) is explicitly discussed in the handout: a dark region alone does not establish it. This is not an automated taxonomic validation.
 
-Successful execution does not validate every sentence of a model-written memo. The rehearsal caught unsupported statements about a measured seismic noise floor, attributing a difference to phase without a control, treating Brier score as calibration alone, and ranking undocumented image-quality codes. Research saved separate revised memos after a targeted critique, preserving the originals. These remain model-written interpretations for evidence review, not supplied answers for students to copy.
+Seismic: a new Research project executed the baseline, frequency comparison and field-team interpretation. Baseline and frequency turns displayed 110 and 87 seconds. The first interpretation took 20 seconds; a revised, supplied final prompt performed a caption audit and note in 56 seconds. The audit corrected a caption confusing geometric boundary convergence with signal resolution. Independently recomputed 20,541 baseline values and 1,503 trace values agree within 5e-12. Earlier incorrect prose about one-way time and Ricker zero crossings is not accepted as scientific evidence; the revised handout explains two-way time and the final prompt audits labels. The final three-prompt text has not been repeated as a wholly fresh uninterrupted run since that last audit revision.
 
-## Scope and remaining checks
+Landslide: a new Research project used the three exact embedded inputs and one prompt, with no clarification questions. Response time was 110 seconds. The downloaded map, executed script and 6,920 scores were inspected. An independent implementation of the supplied equation matches every score within 3.34e-16. Score min/mean/max: 0.0001071294 / 0.2340581264 / 0.9276122219. These scores are not locally calibrated probabilities, observed failures or mechanical stability calculations.
 
-This test establishes public-file retrieval, unchanged hosted execution, artifact generation, memo saving and export. It does not establish permissions for a newly registered student account, class-scale capacity or participant pacing. The fossil exercise uses the embedded CT viewer and GeoGPT Chat; it does not use the quantitative runtime package and was not re-run through Chat during this setup test.
+## Packaging and timing
 
-The landing page, exact setup-copy control and all three lesson-navigation paths were checked on GitHub Pages. The first full-handout download was interrupted by a local connection reset; a retry completed and all three lessons opened with their timelines and checkpoints. The page now explains its loading state. Complete the handout download before class and retain a saved copy.
+Automated source checks confirm unique element identifiers, valid copy targets, byte-identical embedded downloads, embedded images, and equality between the combined file's lesson documents and the standalone handouts. No student text-entry controls are present. Clean Safari-window captures exclude browser tabs and file paths in the embedded checkpoints. Local HTML browser preview was blocked by the browser tool's file-URL policy, so source checks are not presented as a live visual or clipboard test of this edition.
 
-Figure links in model replies can render as blocked even when the files exist. The verified browser route is Research Space → geogpt-workshop → participant-runs → case → run label → PNG filename. Both quantitative lessons include this instruction.
+Visible reading is approximately 8–10 minutes per main lesson at 120 words/minute. The five-minute introduction has about 230 visible words and uses the rehearsed first fossil prompt. The 45-minute slots are class plans, not measured first-time participant completion times. Actual model waits, reading and computer handling leave time for interpretation and exploration, but account creation, service congestion and individual accessibility needs can add time.
+
+## Still requiring a participant pilot
+
+A first-year geology student unfamiliar with the platform should complete each final handout without expert rescue. Record time, every unexpected question, every missing output and where the learner requests help. Include an older participant or a novice computer user in the accessibility check. Do not claim that expert operator rehearsals establish beginner timing or class-scale capacity.
