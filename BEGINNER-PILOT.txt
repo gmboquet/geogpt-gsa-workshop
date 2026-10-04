@@ -1,0 +1,37 @@
+FIRST-TIME USER ACCEPTANCE — ALL THREE LESSONS
+
+Purpose
+Test the lesson, not the participant. Do not describe age as ability. Include people unfamiliar with browser tabs, downloads and geology vocabulary.
+
+Conditions
+Use the public combined workshop link on the participant's own computer. Begin without a prepared GeoGPT project. Account registration is observed separately; it is not included in a five-minute signed-in operator target. Do not show the old multi-prompt videos as instructions for this one-prompt route.
+
+Before starting
+Ask: "Please follow this lesson as you would in class. Say what you are looking for. If a step is unclear, tell me. This tests our instructions, not you."
+Do not teach the required click before the participant encounters its written instruction.
+
+Record separately for Fossils, Seismic and Landslides
+- Time entering the lesson, finding GeoGPT, finishing upload, sending prompt, receiving final output, opening output, and explaining it.
+- Every missing button or different label, unintended tab closure, wrong-file selection, failed copy/paste, unexplained word, extra model question, and needed intervention.
+- The exact instruction the learner had reached when stuck.
+- Whether a saved example was mistaken for the learner's live result.
+- Service delay separately from reading and navigation.
+
+Pass criteria for each lesson
+1. The participant completes the required sequence without the observer supplying a missing click, filename, scientific choice or technical answer. A lesson-provided recovery path may be used; record it.
+2. The actual requested result exists. A code listing, planning text or old screenshot alone is not completion.
+3. In ordinary words, the participant points to one observation and explains one limit. No specialist vocabulary test.
+4. The participant can recover their place after a two-minute interruption without starting over.
+5. At enlarged text size, instructions and controls remain readable and usable.
+6. Required work and interpretation fit within 35 class minutes, leaving 10 minutes for questions/exploration. If they do not, revise or reduce scope; do not blame the learner.
+
+Specific explanations
+Fossils: a name needs visible internal evidence; unclear anatomy is not absent anatomy, and referral is legitimate.
+Seismic: the rocks stay fixed while the pulse changes; a synthetic image is not proof about a real aquifer.
+Landslides: higher modeled score is not confirmation of a landslide; blank means missing coverage.
+
+Five-minute gate
+A separate uninterrupted operator test starts at creating a fresh conversation/project with the account signed in and inputs already downloaded. Count upload, send, service wait and opening/checking the actual result. Keep the screen and wall-clock record. A model's thinking timer alone is not this measurement. Any preparation, recovery, expert correction or service overrun must be disclosed. One passing run is not a universal latency guarantee.
+
+Release decision
+No actual participant pilot has yet been recorded. Do not call the workshop beginner-validated or guarantee accessibility to every participant until this evidence exists. Record remaining failures even if the computational answer is correct.

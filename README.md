@@ -2,10 +2,10 @@
 
 [Open the complete workshop](https://gmboquet.github.io/geogpt-gsa-workshop/workshop.html).
 
-Three guided investigations use international GeoGPT Chat and Research: anatomical evidence for a fossil identification, seismic imaging of a thinning sand bed, and Gorkha terrain-plus-shaking landslide occurrence mapping. A five-minute introduction is included.
+Three one-prompt investigations: fossil anatomy with the Treatise, seismic imaging of a thinning sand bed, and Gorkha terrain-plus-shaking landslide mapping. Choose a lesson, upload its one supplied file, send its complete prompt, then inspect the real result.
 
-The complete workshop is one HTML file with embedded images, input downloads, prompts, account instructions and checkpoints. Live GeoGPT analysis and source-paper links use the internet. Students do not need the older runtime package or access to the instructor's projects.
+Every lesson supplies the settings and explains the browser actions and geology vocabulary. Papers are optional. The 45-minute teaching plans reserve time for evidence inspection, discussion and exploration after the short computer run.
 
-Each lesson follows Read → Attach if named → Copy → Paste → Send → Check. All required settings are supplied. Papers are optional further reading. The 45-minute intervals include explanation, computation, partner interpretation and exploration.
+The combined workshop and each standalone lesson embed their inputs and illustrations. Earlier editions remain in Git history and local archives. Earlier multi-prompt movies are not the instructions for this one-prompt edition.
 
-See TEST-STATUS.md for execution evidence and limitations. Earlier handouts are retained under editions/previous-guided and in Git history; runtime files are retained for the earlier edition.
+Read [TEST-STATUS.md](TEST-STATUS.md) for measured runs and limits, and [BEGINNER-PILOT.txt](BEGINNER-PILOT.txt) for the still-required first-time-user acceptance test.
