@@ -22,7 +22,7 @@ The fossil result uses supplied Treatise-derived anatomical criteria and real CT
 
 ## Packaging
 
-One HTML file includes all three lessons, account help, copyable prompts, input downloads and images. Each standalone lesson also carries its own content. Structural checks verify unique identifiers, working target references, embedded images, byte-identical input downloads and equality of standalone/combined lessons. No student forms or notebook viewer are required. Browser interaction checks are recorded separately after publication.
+One HTML file includes all three lessons, account help, copyable prompts, input downloads and images. Each standalone lesson also carries its own content. Structural checks verify unique identifiers, working target references, embedded images, byte-identical input downloads and equality of standalone/combined lessons. No student forms or notebook viewer are required. Live Safari checks on the public combined page reproduced and then verified a repair for step links nesting another workshop inside the lesson. All three input downloads are byte-identical to the tested files. All three copy buttons report success, and the seismic prompt was pasted into the actual Research message box unchanged, then cleared without sending. Enlarged text, saved-result disclosures, image enlargement/return and lesson switching were exercised. A stalled page load recovered after refresh. Final image assets use pixel-identical lossless compression; a visible loading message prevents an unexplained blank page. First-time-user behavior remains unmeasured.
 
 Earlier movies and handouts are preserved. Movies from the previous multi-prompt edition are not instructions for this new one-prompt route; no updated movie is claimed here.
 
