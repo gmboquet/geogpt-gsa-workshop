@@ -1,4 +1,13 @@
-# One-prompt workshop: verification status
+# Visual workshop: verification status
+
+## Visual expansion
+
+Fifteen new scientific picture panels follow the investigations: real CT projections and five true sections with slice-position locators; an original Treatise plate comparison; a 3-D explanatory sand-wedge block, calculated seismic images and boundary overlays; geographical terrain relief, USGS shaking, exact score-cell overlays and a 6-km terrain close-up. Large stage buttons and image enlargement support comparison without student form entry. All pictures are embedded in the HTML.
+
+These are locally rendered teaching views of source observations and previously verified GeoGPT outputs, explicitly labeled as prepared or saved-run guides. They are not live outputs from a student session. Required prompts and downloadable inputs remain byte-identical to the rehearsed edition below; the model runs were not repeated for this presentation-only revision. Fossil source anatomy is never generated. The seismic block adds display width to a 1-D trace model, not 3-D wave physics. Landslide score cells retain their exact 500-metre footprints; terrain shown between them supplies context, not extra predictions. The 6,920 values agree with independent recomputation within 3.34e-16.
+
+All fifteen panels were inspected, and structural checks passed for embedded media, unique IDs, controls, JavaScript syntax, unchanged prompts and byte-identical inputs. Public visual-control verification is recorded separately. The combined file is approximately 10 MB.
+
 
 Each lesson now has six numbered steps, one supplied input and one required prompt. The account, upload, copy, paste, send and result-opening instructions are explicit. Technical defaults are supplied; no required paper reading, free-form technical answers, validation-purpose choices or morphology-key construction remain. Optional discussion and exploration are separate from completing the calculation.
 
