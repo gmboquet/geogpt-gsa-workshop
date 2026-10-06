@@ -12,4 +12,4 @@ Allow another 15 minutes for orientation and transitions: **150 minutes total**.
 
 The handout is for geoscientists, including those new to the particular method. It supplies technical defaults and explains specialized terms. Click-by-click help supports unfamiliar computer users without changing the geological question.
 
-See [VERIFICATION.md](VERIFICATION.md) for actual rehearsal scope and remaining checks, and [INSTRUCTOR.md](INSTRUCTOR.md) for the pilot plan. The revised fossil and landslide prompts have completed fresh live rehearsals. Use the current films in `editions/guided-v5/video/WATCH.html`; earlier films are explicitly archived.
+See [VERIFICATION.md](VERIFICATION.md) for actual rehearsal scope and remaining checks, and [INSTRUCTOR.md](INSTRUCTOR.md) for the pilot plan. The revised fossil and landslide prompts have completed fresh live rehearsals. Matching current videos are supplied separately from this student handout. Earlier exercises and films remain archived.
