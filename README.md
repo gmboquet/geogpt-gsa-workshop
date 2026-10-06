@@ -1,13 +1,15 @@
-# GeoGPT guided geology workshop
+# GeoGPT geology workshop
 
-[Open the complete workshop](https://gmboquet.github.io/geogpt-gsa-workshop/workshop.html).
+Give participants **[workshop.html](workshop.html)**. It is the single student handout, containing all three lessons, figures, source links and downloadable input packages. The course uses international GeoGPT Research.
 
-Three one-prompt investigations: fossil anatomy with the Treatise, seismic imaging of a thinning sand bed, and Gorkha terrain-plus-shaking landslide mapping. Choose a lesson, upload its one supplied file, send its complete prompt, then inspect the real result.
+| Lesson | Geological decision | Time |
+| --- | --- | --- |
+| Fossil evidence | Do the core-age constraints require missing time, or can slow accumulation explain the interval? Audit the species evidence using the Treatise. | 45 min |
+| Seismic | Is an apparent sand boundary defensible, or could seismic resolution explain it? | 45 min |
+| Landslides | Where could earthquake shaking exceed slope resistance, and which ground assumption most changes the source map? | 45 min |
 
-Fifteen evidence-based visual panels follow the investigations through actual fossil sections, a subsurface block and seismic images, and relief maps with shaking and computed landslide cells. Large buttons reveal each stage; saved examples are distinguished from the student’s own result.
+Allow another 15 minutes for orientation and transitions: **150 minutes total**. Registration should be completed before the class. Each lesson includes a short computer route, time to interpret its pictures and an optional exploration. Papers provide sources and extensions; reading them is not a required timed task.
 
-Every lesson supplies the settings and explains the browser actions and geology vocabulary. Papers are optional. The 45-minute teaching plans reserve time for evidence inspection, discussion and exploration after the short computer run.
+The handout is for geoscientists, including those new to the particular method. It supplies technical defaults and explains specialized terms. Click-by-click help supports unfamiliar computer users without changing the geological question.
 
-The combined workshop and each standalone lesson embed their inputs and illustrations. Earlier editions remain in Git history and local archives. Earlier multi-prompt movies are not the instructions for this one-prompt edition.
-
-Read [TEST-STATUS.md](TEST-STATUS.md) for measured runs and limits, and [BEGINNER-PILOT.txt](BEGINNER-PILOT.txt) for the still-required first-time-user acceptance test.
+See [VERIFICATION.md](VERIFICATION.md) for actual rehearsal scope and remaining checks, and [INSTRUCTOR.md](INSTRUCTOR.md) for the pilot plan. The revised fossil and landslide prompts have completed fresh live rehearsals. Use the current films in `editions/guided-v5/video/WATCH.html`; earlier films are explicitly archived.
